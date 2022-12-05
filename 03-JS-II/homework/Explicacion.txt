@@ -1,0 +1,19 @@
+# FOR
+
+Primero que nada saber que un bucle es la repeticion de algo
+, y el operador For realiza un bucle, osea que repite determinada tarea
+hasta que llegamos al resultado deseado.
+
+
+# &&
+Este es un operador que me deja saber si se cumple dos preguntas,
+osea 5 es mayor 3 y (que seria el &&) 5 es mayor que 2
+
+# ||
+Este es un operador que me deja saber si se cumple al menos una 
+de las dos preguntas, osea 5 es mayor 3 o (que seria el ||)
+5 es mayor que 7
+
+# !
+Este operador que me deja saber si lo que pregunto es distinto,
+por ejemplo si 2 es distinto a 3, preguntaria, 2 != 3
