@@ -1,0 +1,30 @@
+#Objetos
+los objetos son cosas que tienen propiedades, osea como el color, tamaño, etc.
+Y se pueden hacer cosas con ellas que se llaman metodos
+
+#Propiedades
+Las propiedades son las carateristicas que tiene el objeto, osea el color, tamaño, etc.
+
+#Métodos
+Son las cosas que puede hacer el objeto, como sumar, restar, saludar, etc.
+
+#Bucle for…in
+Si tenemos un objeto, osea una cosa, y queremos saber que caracteriticas o
+que cosas se pueden hacer con ella, tenemos que ir una por una
+osea no puedo hacer todo junto, tengo que hacer una a la vez, para eso 
+nos sirve el llamado for..in
+
+#Notación de puntos vs notación de corchetes
+Para acceder a cada una de estas caracteristicas o acciones, se puedo hacer usando el punto o
+los corchetes, por ejemplo: tengo un objeto llamado escalera, entonces si quiero saber su tamaño
+pongo:
+
+escalera.tamaño;
+o sino:
+escalera["tamaño"];
+
+lo mismo para las acciones:
+
+escalera.abrir();
+o sino:
+escalera["abrir"]();
